@@ -1,0 +1,35 @@
+# 👾 Alien Invasion – Python Game
+
+A classic arcade-style shooting game built using **Pygame**, where the player controls a spaceship to defend Earth from waves of alien invaders.
+
+This project is based on the hands-on lessons from the book *Python Crash Course* by Eric Matthes (Chapters 12–14) and is a great introduction to object-oriented game development with Python.
+
+---
+
+## 🎮 Game Features
+
+- Control a spaceship with arrow keys and shoot bullets using the spacebar
+- Aliens descend in fleets and accelerate over time
+- Score tracking and increasing difficulty with each level
+- Collision detection and game-over logic
+- Responsive gameplay with smooth graphics and sound (optional)
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3.x
+- Pygame (2.x)
+- Object-Oriented Programming
+
+---
+
+## 🚀 How to Run the Game
+
+1. **Install Python**  
+   [Download Python](https://www.python.org/downloads/) and install it on your system.
+
+2. **Install Pygame**  
+   Open a terminal or command prompt and run:
+   ```bash
+   pip install pygame
