@@ -35,7 +35,7 @@ def threaded_client(conn, player_id):
     conn.close()
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server.bind(("192.168.1.6", 5051))  # Use your public IP or 0.0.0.0
+server.bind(("192.168.1.", 5051))  # Use your public IP or 0.0.0.0
 server.listen(2)
 
 print("Server started. Waiting for connections...")
